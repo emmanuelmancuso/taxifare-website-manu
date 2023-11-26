@@ -1,0 +1,9 @@
+requests
+datetime
+pandas
+numpy
+pydeck
+googlemaps==4.10.0
+geopy
+folium
+folium_static
