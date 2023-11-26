@@ -5,5 +5,5 @@ numpy
 pydeck
 googlemaps==4.10.0
 geopy
-folium
-folium_static
+streamlit_folium==0.16.0
+folium==0.14.0
