@@ -9,7 +9,7 @@ The prediction is powered by a machine learning model, specifically a deep learn
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/taxifare-website.git
+    git clone https://github.com/emmanuelmancuso/taxifare-website-manu.git
     cd taxifare-website
     ```
 
