@@ -1,4 +1,4 @@
-# Taxi Fare Model by ManU 🚕
+#🚕 Taxi Fare Model by ManU 🚕
 
 This Streamlit app predicts the taxi fare for a ride in New York City based on the given parameters. 
 The prediction is powered by a machine learning model, specifically a deep learning neural network, that has been meticulously designed and trained on a subset of the massive NYC Trip Record Dataset.
